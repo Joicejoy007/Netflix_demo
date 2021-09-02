@@ -176,7 +176,7 @@ const styles=StyleSheet.create({
     },
     btntext:{
         fontFamily:"Ubuntu-Medium",
-        fontSize:18.5,
+        fontSize:17,
         color:"white",
     },
     steptext:{

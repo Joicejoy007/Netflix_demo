@@ -56,7 +56,7 @@ const styles=StyleSheet.create({
   },
   icon:{
     fontFamily:"Ubuntu-Light",
-    fontSize:20,
+    fontSize:15,
     fontWeight:"400",
     color:"rgb(120,120,120)",
     textAlign:"center",
